@@ -1,11 +1,29 @@
 [
   {
     "id": "track_001",
-    "name": "اسم آهنگ",
-    "artist": "خواننده",
-    "url": "https://USERNAME.github.io/gd-music/music/song1.mp3",
-    "duration": 210,
+    "name": "Mysterious",
+    "artist": "Scorpions",
+    "url": "https://mohsen-jalalian.github.io/gd-music/music/01-scorpions-mysterious.mp3",
+    "duration": 328,
     "difficulty": 35,
+    "bpm": 128
+  },
+  {
+    "id": "track_002",
+    "name": "Points of Authority",
+    "artist": "Linkin Park",
+    "url": "https://mohsen-jalalian.github.io/gd-music/music/02-linkinpark-points_of_authority.mp3",
+    "duration": 202,
+    "difficulty": 60,
+    "bpm": 128
+  },
+  {
+    "id": "track_003",
+    "name": "Pretending",
+    "artist": "HIM",
+    "url": "https://mohsen-jalalian.github.io/gd-music/music/03-him-pretending.mp3",
+    "duration": 480,
+    "difficulty": 90,
     "bpm": 128
   }
 ]
