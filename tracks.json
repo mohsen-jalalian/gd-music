@@ -1,0 +1,11 @@
+[
+  {
+    "id": "track_001",
+    "name": "اسم آهنگ",
+    "artist": "خواننده",
+    "url": "https://USERNAME.github.io/gd-music/music/song1.mp3",
+    "duration": 210,
+    "difficulty": 35,
+    "bpm": 128
+  }
+]
